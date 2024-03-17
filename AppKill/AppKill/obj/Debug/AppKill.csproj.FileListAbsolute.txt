@@ -1,0 +1,8 @@
+H:\Project\New_Structure\AppKill\AppKill\AppKill\bin\Debug\AppKill.exe.config
+H:\Project\New_Structure\AppKill\AppKill\AppKill\bin\Debug\AppKill.exe
+H:\Project\New_Structure\AppKill\AppKill\AppKill\bin\Debug\AppKill.pdb
+H:\Project\New_Structure\AppKill\AppKill\AppKill\obj\Debug\AppKill.csproj.AssemblyReference.cache
+H:\Project\New_Structure\AppKill\AppKill\AppKill\obj\Debug\AppKill.csproj.SuggestedBindingRedirects.cache
+H:\Project\New_Structure\AppKill\AppKill\AppKill\obj\Debug\AppKill.csproj.CoreCompileInputs.cache
+H:\Project\New_Structure\AppKill\AppKill\AppKill\obj\Debug\AppKill.exe
+H:\Project\New_Structure\AppKill\AppKill\AppKill\obj\Debug\AppKill.pdb
